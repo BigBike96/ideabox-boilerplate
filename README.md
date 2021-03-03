@@ -9,7 +9,8 @@ Turing 2102 FE Week 5 Group Project
 
 
 **Code Reviewers:**  
-- [Kristi Miller](https://github.com/Kristiannmiller)  
+- [Kristi Miller](https://github.com/Kristiannmiller)
+- [Aaron Burris-DeBoskey](https://github.com/Abdeboskey)  
 
 ## Technology Used  
 - Javascript
